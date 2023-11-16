@@ -1,0 +1,302 @@
+[
+    {
+        "transactionId": "dc1a38c2-3847-41b3-818d-1a39c32319f9",
+        "customerId": "3c9d3d53-003e-48c6-ae61-377c4f600a51",
+        "date": "2023-01-21",
+        "amount": 245
+    },
+    {
+        "transactionId": "13e26251-9222-4ce7-8feb-f07a71367c5e",
+        "customerId": "3c9d3d53-003e-48c6-ae61-377c4f600a51",
+        "date": "2023-01-03",
+        "amount": 271
+    },
+    {
+        "transactionId": "5470e67b-3bd3-4ca7-8cd0-0ace91ea938a",
+        "customerId": "3c9d3d53-003e-48c6-ae61-377c4f600a51",
+        "date": "2023-01-01",
+        "amount": 261
+    },
+    {
+        "transactionId": "53a87638-b859-4192-8e52-99f175785580",
+        "customerId": "3c9d3d53-003e-48c6-ae61-377c4f600a51",
+        "date": "2023-01-26",
+        "amount": 176
+    },
+    {
+        "transactionId": "19b87955-1c07-4e2e-9168-3faef29807a3",
+        "customerId": "3c9d3d53-003e-48c6-ae61-377c4f600a51",
+        "date": "2023-02-14",
+        "amount": 82
+    },
+    {
+        "transactionId": "96687be5-33ce-456f-bf71-c4a580775df4",
+        "customerId": "3c9d3d53-003e-48c6-ae61-377c4f600a51",
+        "date": "2023-02-06",
+        "amount": 86
+    },
+    {
+        "transactionId": "be6bf9f6-af2d-4527-85a5-7086268e3153",
+        "customerId": "3c9d3d53-003e-48c6-ae61-377c4f600a51",
+        "date": "2023-03-25",
+        "amount": 174
+    },
+    {
+        "transactionId": "cfe10169-23e3-495f-a48a-ba2b9f4d7b1a",
+        "customerId": "3c9d3d53-003e-48c6-ae61-377c4f600a51",
+        "date": "2023-03-03",
+        "amount": 297
+    },
+    {
+        "transactionId": "f73fa5e6-30f9-4224-bf41-452b7d6603de",
+        "customerId": "3c9d3d53-003e-48c6-ae61-377c4f600a51",
+        "date": "2023-03-06",
+        "amount": 172
+    },
+    {
+        "transactionId": "66c12ab6-a70f-4b58-b820-fe60f95cd989",
+        "customerId": "3c9d3d53-003e-48c6-ae61-377c4f600a51",
+        "date": "2023-03-17",
+        "amount": 283
+    },
+    {
+        "transactionId": "84293f98-388b-4652-8aea-b42ffe91f669",
+        "customerId": "6554554f-4516-403d-8b91-5a1a33953445",
+        "date": "2023-01-26",
+        "amount": 198
+    },
+    {
+        "transactionId": "9f3d4bd8-520f-4ed1-bfda-3d16be35bdd5",
+        "customerId": "6554554f-4516-403d-8b91-5a1a33953445",
+        "date": "2023-01-13",
+        "amount": 250
+    },
+    {
+        "transactionId": "04a740cb-a7fa-4c53-a7b1-821bda54d782",
+        "customerId": "6554554f-4516-403d-8b91-5a1a33953445",
+        "date": "2023-01-07",
+        "amount": 122
+    },
+    {
+        "transactionId": "00045030-0cd0-4cf3-9f2a-545356ca22fb",
+        "customerId": "6554554f-4516-403d-8b91-5a1a33953445",
+        "date": "2023-01-24",
+        "amount": 206
+    },
+    {
+        "transactionId": "ab44ccaf-19a3-4f05-9954-56f5fd1aa693",
+        "customerId": "6554554f-4516-403d-8b91-5a1a33953445",
+        "date": "2023-02-21",
+        "amount": 134
+    },
+    {
+        "transactionId": "cd465d10-d712-4cf8-ac2a-2007f140cb91",
+        "customerId": "6554554f-4516-403d-8b91-5a1a33953445",
+        "date": "2023-02-21",
+        "amount": 60
+    },
+    {
+        "transactionId": "36e346ad-41c9-4966-b8c9-e7b6765d5e90",
+        "customerId": "6554554f-4516-403d-8b91-5a1a33953445",
+        "date": "2023-02-04",
+        "amount": 143
+    },
+    {
+        "transactionId": "2ad7ed5e-064f-4e35-861f-f4c7dea6fc04",
+        "customerId": "6554554f-4516-403d-8b91-5a1a33953445",
+        "date": "2023-02-15",
+        "amount": 229
+    },
+    {
+        "transactionId": "f4d85712-51ce-47f4-aed4-630d36a767e1",
+        "customerId": "6554554f-4516-403d-8b91-5a1a33953445",
+        "date": "2023-02-20",
+        "amount": 83
+    },
+    {
+        "transactionId": "96ff1209-8819-43a2-a6b6-22caaf380265",
+        "customerId": "6554554f-4516-403d-8b91-5a1a33953445",
+        "date": "2023-03-26",
+        "amount": 266
+    },
+    {
+        "transactionId": "4796c0a2-4ebf-4d42-b13c-322ed4496eb1",
+        "customerId": "6554554f-4516-403d-8b91-5a1a33953445",
+        "date": "2023-03-08",
+        "amount": 126
+    },
+    {
+        "transactionId": "06e98ed1-cfb7-4bb3-b755-dead73324c72",
+        "customerId": "6554554f-4516-403d-8b91-5a1a33953445",
+        "date": "2023-03-18",
+        "amount": 242
+    },
+    {
+        "transactionId": "9bb988d6-bce1-4b6a-b62e-1f98b5929c24",
+        "customerId": "6554554f-4516-403d-8b91-5a1a33953445",
+        "date": "2023-03-24",
+        "amount": 208
+    },
+    {
+        "transactionId": "0b5f7ab8-6d3e-42e1-953d-d441442a63e4",
+        "customerId": "e026d177-6791-4933-bc0a-db0c83cae54b",
+        "date": "2023-01-26",
+        "amount": 250
+    },
+    {
+        "transactionId": "e730621f-eb2b-4c1b-b027-69f210e39acc",
+        "customerId": "e026d177-6791-4933-bc0a-db0c83cae54b",
+        "date": "2023-01-12",
+        "amount": 109
+    },
+    {
+        "transactionId": "25a9c7f5-9ce5-411c-ad96-b4ce7946352b",
+        "customerId": "e026d177-6791-4933-bc0a-db0c83cae54b",
+        "date": "2023-01-20",
+        "amount": 173
+    },
+    {
+        "transactionId": "7de47632-7af7-4a0e-aae5-1fa3e83a428e",
+        "customerId": "e026d177-6791-4933-bc0a-db0c83cae54b",
+        "date": "2023-01-18",
+        "amount": 161
+    },
+    {
+        "transactionId": "7194f755-2e10-43e8-b412-e14494161b52",
+        "customerId": "e026d177-6791-4933-bc0a-db0c83cae54b",
+        "date": "2023-02-21",
+        "amount": 144
+    },
+    {
+        "transactionId": "f1e4b312-f9bf-4662-b950-c3f8d430c8db",
+        "customerId": "e026d177-6791-4933-bc0a-db0c83cae54b",
+        "date": "2023-02-13",
+        "amount": 118
+    },
+    {
+        "transactionId": "72ea6004-c55f-4f51-9c90-569e6ca1f16b",
+        "customerId": "e026d177-6791-4933-bc0a-db0c83cae54b",
+        "date": "2023-02-10",
+        "amount": 36
+    },
+    {
+        "transactionId": "400fa035-3c6c-48d9-8370-212bdd16899c",
+        "customerId": "e026d177-6791-4933-bc0a-db0c83cae54b",
+        "date": "2023-02-18",
+        "amount": 25
+    },
+    {
+        "transactionId": "6a24ffb1-99fc-4fc7-8030-14c29396bd27",
+        "customerId": "e026d177-6791-4933-bc0a-db0c83cae54b",
+        "date": "2023-02-05",
+        "amount": 110
+    },
+    {
+        "transactionId": "637c886b-eece-4d89-aae3-1b6abffe71fe",
+        "customerId": "e026d177-6791-4933-bc0a-db0c83cae54b",
+        "date": "2023-03-20",
+        "amount": 228
+    },
+    {
+        "transactionId": "3beaccb1-1333-44d7-83d6-5c4512d7528b",
+        "customerId": "de8c5558-d127-45ed-a1b9-febf129b4cd5",
+        "date": "2023-01-28",
+        "amount": 72
+    },
+    {
+        "transactionId": "6d5e5d7f-be99-4644-8b29-fb7b20072cac",
+        "customerId": "de8c5558-d127-45ed-a1b9-febf129b4cd5",
+        "date": "2023-01-13",
+        "amount": 252
+    },
+    {
+        "transactionId": "8ef4433a-ec47-4228-b75f-1a1b51f75eca",
+        "customerId": "de8c5558-d127-45ed-a1b9-febf129b4cd5",
+        "date": "2023-02-07",
+        "amount": 53
+    },
+    {
+        "transactionId": "d7c4f540-323d-45a8-9dfc-2b568ed0c25f",
+        "customerId": "de8c5558-d127-45ed-a1b9-febf129b4cd5",
+        "date": "2023-02-28",
+        "amount": 218
+    },
+    {
+        "transactionId": "8c351424-5079-43a8-b851-7725420d77fb",
+        "customerId": "de8c5558-d127-45ed-a1b9-febf129b4cd5",
+        "date": "2023-02-18",
+        "amount": 220
+    },
+    {
+        "transactionId": "47d0ba92-b362-4ef6-8df0-d1ed1eb3ae2b",
+        "customerId": "de8c5558-d127-45ed-a1b9-febf129b4cd5",
+        "date": "2023-02-18",
+        "amount": 271
+    },
+    {
+        "transactionId": "e3be2745-6092-4e50-a01f-728297fadca6",
+        "customerId": "de8c5558-d127-45ed-a1b9-febf129b4cd5",
+        "date": "2023-02-23",
+        "amount": 191
+    },
+    {
+        "transactionId": "0310d38c-f64d-436b-bc28-f8a08d10ee10",
+        "customerId": "de8c5558-d127-45ed-a1b9-febf129b4cd5",
+        "date": "2023-03-24",
+        "amount": 224
+    },
+    {
+        "transactionId": "d3f43423-8a93-41e7-ad51-863db8bae8b5",
+        "customerId": "de8c5558-d127-45ed-a1b9-febf129b4cd5",
+        "date": "2023-03-10",
+        "amount": 62
+    },
+    {
+        "transactionId": "86f3d03c-22d8-4805-85db-a16a9acc2bb8",
+        "customerId": "de8c5558-d127-45ed-a1b9-febf129b4cd5",
+        "date": "2023-03-18",
+        "amount": 236
+    },
+    {
+        "transactionId": "10eae54a-564d-43fa-8287-fd7f7244e0fb",
+        "customerId": "147828e7-bb9e-4579-8be9-d9f53a2b82b2",
+        "date": "2023-01-07",
+        "amount": 95
+    },
+    {
+        "transactionId": "64c0bddc-913e-4bb5-9666-cd0f3347fc02",
+        "customerId": "147828e7-bb9e-4579-8be9-d9f53a2b82b2",
+        "date": "2023-02-11",
+        "amount": 165
+    },
+    {
+        "transactionId": "acf79070-efcc-46b2-8167-4ff9c4a25e3c",
+        "customerId": "147828e7-bb9e-4579-8be9-d9f53a2b82b2",
+        "date": "2023-02-02",
+        "amount": 59
+    },
+    {
+        "transactionId": "d8d1cf24-f0e3-4b7c-a5e1-e46ea8b0c975",
+        "customerId": "147828e7-bb9e-4579-8be9-d9f53a2b82b2",
+        "date": "2023-02-25",
+        "amount": 155
+    },
+    {
+        "transactionId": "039a5b48-1ce1-4726-b78b-aec232676ef5",
+        "customerId": "147828e7-bb9e-4579-8be9-d9f53a2b82b2",
+        "date": "2023-03-12",
+        "amount": 30
+    },
+    {
+        "transactionId": "2366f337-1063-4161-883b-71cbb78a7751",
+        "customerId": "147828e7-bb9e-4579-8be9-d9f53a2b82b2",
+        "date": "2023-03-17",
+        "amount": 54
+    },
+    {
+        "transactionId": "8be187d6-728f-42d8-ae3c-653ac43163c9",
+        "customerId": "147828e7-bb9e-4579-8be9-d9f53a2b82b2",
+        "date": "2023-03-20",
+        "amount": 226
+    }
+]
