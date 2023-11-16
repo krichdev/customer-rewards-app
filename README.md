@@ -1,6 +1,7 @@
 # Customer Rewards App
 
 This project is a React-based web application designed to calculate and display customer reward points for a retailer. It showcases a rewards program where customers earn points based on their transaction amounts. The application displays the points earned for each customer per month and the total points over a three-month period.
+![Screenshot 2023-11-16 at 2 26 16 PM](https://github.com/krichdev/customer-rewards-app/assets/24707689/af27b595-8c2f-4b6d-bf2c-160b13eb624e)
 
 ## Features
 
