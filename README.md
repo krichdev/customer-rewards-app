@@ -64,4 +64,4 @@ This application was built as a response to a coding challenge with the followin
 
 Kyle Richardson - [kgrichardson2@gmail.com](mailto:kgrichardson2@gmail.com)
 
-Project Link: [https://github.com/your-username/customer-rewards-app](https://github.com/your-username/customer-rewards-app)
+Project Link: [https://github.com/krichdev/customer-rewards-app/](https://github.com/krichdev/customer-rewards-app/)
